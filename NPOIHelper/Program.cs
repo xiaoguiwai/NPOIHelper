@@ -10,6 +10,8 @@ namespace NPOIHelper
     {
         static void Main(string[] args)
         {
+            
+            var tb= NPOIHelper.Import(@"c:\ddd.xlsx");
         }
     }
 }
